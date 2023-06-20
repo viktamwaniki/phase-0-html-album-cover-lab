@@ -25,6 +25,10 @@ body {
   font-size: 100%;
 }
 
+body {
+    background-colour: lightblue;
+    }
+    
 h1 {
   font-size: 12.25em;
   line-height: 1em;
